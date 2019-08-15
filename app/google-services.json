@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "515292550961",
+    "firebase_url": "https://binakarya-af404.firebaseio.com",
+    "project_id": "binakarya-af404",
+    "storage_bucket": "binakarya-af404.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515292550961:android:eb99d9fc5a6205a0",
+        "android_client_info": {
+          "package_name": "com.bk.binakarya.binakarya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515292550961-jm0raeci4i4fae9t9fjjc305q8q0itg0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bk.binakarya.binakarya",
+            "certificate_hash": "67e7b6fb5f6e4c0c7b198b870c600e1aee09068f"
+          }
+        },
+        {
+          "client_id": "515292550961-fe6onlfjrg6gsmqtqougdcdtuenhtap1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdvf7MND6PMg80pTWVNAmcDQR2zaCSCRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515292550961-fe6onlfjrg6gsmqtqougdcdtuenhtap1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
